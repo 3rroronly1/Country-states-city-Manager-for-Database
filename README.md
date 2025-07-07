@@ -11,7 +11,7 @@ A PHP-based web application for managing geographical locations (Countries, Stat
 - Duplicate checking to prevent redundant entries
 - Case-insensitive validation
 
-![Individual Entry Interface](images/individual-entry.png)
+![Individual Entry Interface](/individual-entry.png)
 
 ### 2. Bulk Entry
 - Bulk add states/provinces to a country
@@ -20,26 +20,26 @@ A PHP-based web application for managing geographical locations (Countries, Stat
 - Detailed success/failure reporting
 - Duplicate detection within batch and existing records
 
-![Bulk Entry Interface](images/bulkentry.png)
+![Bulk Entry Interface](/bulkentry.png)
 
 ### 3. List View
 - View all locations in a paginated format
 - Search functionality
 - Hierarchical display (Country → State → City)
 
-![List View Interface](images/list-view.png)
+![List View Interface](/list-view.png)
 
 ### 4. Cleanup Tools
 - Remove duplicate entries while preserving data integrity
 - Automated cleanup for countries, states, and cities
 
-![Cleanup Interface](images/cleanup.png)
+![Cleanup Interface](/cleanup.png)
 
 ### 5. Test Dropdowns
 - Test cascading dropdown functionality
 - Real-time validation
 
-![Test Dropdowns Interface](images/test-dropdown.png)
+![Test Dropdowns Interface](/test-dropdown.png)
 
 ## Technical Features
 
